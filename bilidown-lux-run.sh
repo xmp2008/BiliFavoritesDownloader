@@ -1,6 +1,6 @@
 #!/bin/bash
-/root/bilidown/bilidown-lux.sh "fav" "B站id" "收藏夹id" "下载的文件夹"
-/root/bilidown/bilidown-lux.sh "user/video" "1458409749" "0" "汤圆的汤圆儿"
+bash  /share/Disk1/myshell/bilidown/bilidown-lux-new.sh "fav" "xxx" "xxx" "xxx"
+#/share/Disk1/myshell/bilidown/bilidown-lux.sh "user/video" "1458409749" "0" "汤圆的汤圆儿"
 
 
 #例1 如果是收藏夹的话:/root/bilidown/bilidown-lux.sh "fav" "你的B站id" "收藏夹id" "你的收藏夹名字"

@@ -19,6 +19,10 @@
 
 ## 更新日志
 
+### 2023/4/06
+
+增加自动更新cookies，需要安装[CookieCloud](https://github.com/easychen/CookieCloud)
+
 ### 2022/8/02
 
 修改原版的[you-get下载](https://github.com/soimort/you-get)为[lux下载](https://github.com/iawia002/lux/),因为`you-get`默认下载视频格式为`h265/hevc`格式,导致谷歌浏览器在线播放不了,所以替换为`lux`可默认下`h264`格式.
